@@ -11,6 +11,7 @@ var b=function(){
 b();
 
 
+
 function c(param1,param2){
     console.log(param1,param2);
 }
