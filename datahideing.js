@@ -4,7 +4,6 @@ var count=0;
  count++;
  console.log(count);
 }
-inccount();
-
+return inccount;
 }
-counter();
+counter()();
